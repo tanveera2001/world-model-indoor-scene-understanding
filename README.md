@@ -29,7 +29,7 @@ The project uses **YOLO11n-Seg**, a lightweight instance segmentation model, fin
 | Md. Tanveer Ahmed    | 2311582042 | [tanveer.ahmed07@northsouth.edu](mailto:tanveer.ahmed07@northsouth.edu) |
 | S.M. Mahin           | 2132140642 | [s.m.mahin@northsouth.edu](mailto:s.m.mahin@northsouth.edu)             |
 | Zidan Zafar Rudra    | 2013747642 | [zidan.rudra@northsouth.edu](mailto:zidan.rudra@northsouth.edu)         |
-| SHAMEEM AHMED RIZWAN | 2233704642 | [shameem.rizwan@northsouth.edu](mailto:shameem.rizwan@northsouth.edu)   |
+| Shameem Ahmed Rizwan | 2233704642 | [shameem.rizwan@northsouth.edu](mailto:shameem.rizwan@northsouth.edu)   |
 
 
 **Group:** Group-13
